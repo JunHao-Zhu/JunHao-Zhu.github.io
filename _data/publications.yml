@@ -6,7 +6,7 @@ main:
     conference: Proceedings of the VLDB Endowment <strong>(VLDB)</strong>, 2024.
     pdf: https://www.vldb.org/pvldb/vol17/p1337-gao.pdf
     code: https://github.com/JunHao-Zhu/FusionQuery
-    slides: ./assets/slides/FusionQuery_VLDB24_slides.pdf
+    slides: https://JunHao-Zhu.github.io/assets/slides/FusionQuery_VLDB24_slides.pdf
     image: ./assets/img/FusionQuery_overview.png
 
   - title: "PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching"
