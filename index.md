@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello there! My name is Junhao Zhu (朱俊豪), a second-year Ph.D. student at Zhejiang University, advised by Prof. [Lu Chen](https://person.zju.edu.cn/en/luchen). I am also working closely with Prof. [Yunjun Gao](https://person.zju.edu.cn/gaoyj_cn) and Prof. [Yuren Mao](https://person.zju.edu.cn/maoyuren). Before that, I received my B.E. degree from Jianxing honor college, Zhejiang University of Technology, in 2022. Here is my [CV](https://github.com/JunHao-Zhu/JunHao-Zhu.github.io/assets/files/zhucv.pdf).
+Hello there! My name is Junhao Zhu (朱俊豪), a second-year Ph.D. student at Zhejiang University, advised by Prof. [Lu Chen](https://person.zju.edu.cn/en/luchen). I am also working closely with Prof. [Yunjun Gao](https://person.zju.edu.cn/gaoyj_cn) and Prof. [Yuren Mao](https://person.zju.edu.cn/maoyuren). Before that, I received my B.E. degree from Jianxing honor college, Zhejiang University of Technology, in 2022. Here is my [CV](./assets/files/zhucv.pdf).
 
 My research insterests revolve around data lake management and data-centric AI. I am working on applying AI to data lake management (e.g., entity matching, query processing over data lake) and improving AI from a data-centric perspective (e.g., data quality, data discovery).
 
