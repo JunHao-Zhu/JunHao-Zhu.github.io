@@ -1,22 +1,21 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data"
+    authors: <strong>Junhao Zhu</strong>, Yuren Mao, Lu Chen, Congcong Ge, Ziheng Wei, Yunjun Gao
+    conference_short: VLDB'24
+    conference: Proceedings of the VLDB Endowment <strong>(VLDB)</strong>, 2024.
+    pdf: https://www.vldb.org/pvldb/vol17/p1337-gao.pdf
+    code: https://github.com/JunHao-Zhu/FusionQuery
+    slides: ./assets/slides/FusionQuery_VLDB24_slides.pdf
+    image: ./assets/img/FusionQuery_overview.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching"
+    authors: Pengfei Wang, Xiaocan Zeng, Lu Chen, Fan Ye, Yuren Mao, <strong>Junhao Zhu</strong>, Yunjun Gao
+    conference_short: VLDB'23
+    conference: Proceedings of the VLDB Endowment <strong>(VLDB)</strong>, 2023.
+    pdf: https://www.vldb.org/pvldb/vol16/p369-gao.pdf
+    code: https://github.com/ZJU-DAILY/PromptEM
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/PromptEM_teaser.png
