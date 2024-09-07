@@ -7,7 +7,7 @@
   <li><autocolor>Huawei in Hangzhou, Jun. 2023</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Weak Supervision in Entity Matching</h4>
+<h4 style="margin:0 10px 0;">Weak Supervision for Entity Matching</h4>
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>Huawei in Hangzhou, Apr. 2023</autocolor></li>
