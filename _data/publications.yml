@@ -1,4 +1,12 @@
 main:
+  - title: "T-Assess: An Efficient Quality Assessment System Tailored for Trajectory Data"
+    authors: <strong>Junhao Zhu</strong>, Tao Wang, Danlei Hu, Ziquan Fang, Lu Chen, Yunjun Gao, Tianyi Li, Christian S. Jensen
+    conference_short: VLDB'25
+    conference: Proceedings of the VLDB Endowment <strong>(VLDB)</strong>, 2025.
+    report: https://github.com/ZJU-DAILY/T-Assess/blob/main/technical_report.pdf
+    code: https://github.com/ZJU-DAILY/T-Assess
+    image: ./assets/img/T-Assess_overview.png
+
 
   - title: "FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data"
     authors: <strong>Junhao Zhu</strong>, Yuren Mao, Lu Chen, Congcong Ge, Ziheng Wei, Yunjun Gao

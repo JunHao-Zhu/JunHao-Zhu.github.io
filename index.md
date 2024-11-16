@@ -10,6 +10,7 @@ My research insterests revolve around data lake management and data-centric AI. 
 
 ## News
 
+- **[Nov. 2024]** Our paper about data quality assessment is accepted to VLDB 2025.
 - **[Aug. 2024]** Give a talk about our FusionQuery at VLDB 2024.
 - **[Jan. 2024]** Our paper about query processing over data lake is accepted to VLDB 2024.
 
