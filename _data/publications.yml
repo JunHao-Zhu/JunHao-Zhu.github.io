@@ -1,4 +1,27 @@
 main:
+  - title: "Beyond Relational: Semantic-Aware Multi-modal Analytics with LLM-Native Query Optimization"
+    authors: <strong>Junhao Zhu</strong>, Lu Chen, Xiangyu Ke, Ziquan Fang, Tianyi Li, Yunjun Gao, Christian S. Jensen
+    conference_short: SIGMOD'26
+    conference: Proceedings of the ACM SIGMOD International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026.
+    arxiv: https://arxiv.org/abs/2511.19830
+    code: https://github.com/JunHao-Zhu/nirvana
+    image: ./assets/img/nirvana_motivation.png
+
+  - title: "AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation"
+    authors: Fengyu Li, Yilin Li, <strong>Junhao Zhu</strong>, Lu Chen, Yanfei Zhang, Jia Zhou, Hui Zu, Jingwen Zhao, Yunjun Gao
+    conference_short: ArXiv
+    conference: ArXiv
+    arxiv: https://www.arxiv.org/abs/2503.11346
+    code: https://github.com/ZJU-DAILY/AIstorian
+
+  - title: "Toast: Task-Oriented Multi-dimensional Augmentation for Spatio-Temporal Trajectory Data"
+    authors: <strong>Junhao Zhu</strong>, Tao Wang, Lu Chen, Ziquan Fang, Yunjun Gao, Tianyi Li
+    conference_short: SIGKDD'25
+    conference: Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <strong>(SIGKDD)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3711896.3737158
+    code: https://github.com/ZJU-DAILY/Toast
+    image: ./assets/img/toast_overview.png
+
   - title: "T-Assess: An Efficient Quality Assessment System Tailored for Trajectory Data"
     authors: <strong>Junhao Zhu</strong>, Tao Wang, Danlei Hu, Ziquan Fang, Lu Chen, Yunjun Gao, Tianyi Li, Christian S. Jensen
     conference_short: VLDB'25
@@ -6,7 +29,6 @@ main:
     report: https://github.com/ZJU-DAILY/T-Assess/blob/main/technical_report.pdf
     code: https://github.com/ZJU-DAILY/T-Assess
     image: ./assets/img/T-Assess_overview.png
-
 
   - title: "FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data"
     authors: <strong>Junhao Zhu</strong>, Yuren Mao, Lu Chen, Congcong Ge, Ziheng Wei, Yunjun Gao

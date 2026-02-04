@@ -1,5 +1,11 @@
 ## Talks
 
+<h4 style="margin:0 10px 0;">Nirvana: A LLM-powered Semantic Data Processing Computing Framework</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Alibaba, Dec. 2025</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data</h4>
 
 <ul style="margin:0 0 5px;">
