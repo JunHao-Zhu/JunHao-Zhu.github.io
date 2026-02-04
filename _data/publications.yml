@@ -10,9 +10,10 @@ main:
   - title: "AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation"
     authors: Fengyu Li, Yilin Li, <strong>Junhao Zhu</strong>, Lu Chen, Yanfei Zhang, Jia Zhou, Hui Zu, Jingwen Zhao, Yunjun Gao
     conference_short: ArXiv
-    conference: ArXiv
+    conference: ArXiv preprint
     arxiv: https://www.arxiv.org/abs/2503.11346
     code: https://github.com/ZJU-DAILY/AIstorian
+    image: ./assets/img/aistorian_overview.png
 
   - title: "Toast: Task-Oriented Multi-dimensional Augmentation for Spatio-Temporal Trajectory Data"
     authors: <strong>Junhao Zhu</strong>, Tao Wang, Lu Chen, Ziquan Fang, Yunjun Gao, Tianyi Li
